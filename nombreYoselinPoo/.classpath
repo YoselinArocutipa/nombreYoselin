@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/UNAM/CICLO 3 ENTRADA/poo2/PAQUETERIAS/libreria/cargarImagen01.jar"/>
+	<classpathentry kind="lib" path="D:/UNAM/CICLO 3 ENTRADA/poo2/PAQUETERIAS/libreria/core.jar"/>
+	<classpathentry kind="lib" path="D:/UNAM/CICLO 3 ENTRADA/poo2/PAQUETERIAS/libreria/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="D:/UNAM/CICLO 3 ENTRADA/poo2/PAQUETERIAS/libreria/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="D:/UNAM/CICLO 3 ENTRADA/poo2/PAQUETERIAS/libreria/jogl-all.jar"/>
+	<classpathentry kind="lib" path="D:/UNAM/CICLO 3 ENTRADA/poo2/PAQUETERIAS/libreria/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
